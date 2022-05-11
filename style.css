@@ -14,7 +14,7 @@ h1 {
   font-weight: 900;
 }
 h2 {
-  color: #443730;
+  color: hsl(129, 78%, 32%);
   font-size: 20px;
   font-weight: lighter;
   font-weight: 500;
@@ -37,7 +37,7 @@ a:hover {
 
 .card-white {
   border-radius: 80px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
