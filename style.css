@@ -31,11 +31,12 @@ a:hover {
 }
 
 .container {
-  width: 700px;
-  margin: 50px auto;
+  width: 50%;
+  margin: 0 auto;
 }
 
-.card-white {
+.card {
+  border-radius: 50px;
   background-color: #FFFFFF;
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
@@ -47,7 +48,7 @@ a:hover {
 .img-circle {
   border-radius: 20%;
 }
-.btn-blue {
+.btn-green {
   background-color: #3ca27b;
   color: white;
   padding: 15px 20px;
